@@ -1,0 +1,6 @@
+/server/.env
+/app/.env
+/app/vendor/
+/app/node_modules/
+/.idea/
+/server/nginx/certs/*.pem
