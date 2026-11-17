@@ -4,3 +4,11 @@
 /app/node_modules/
 /.idea/
 /server/nginx/certs/*.pem
+
+/app/backend/.env
+/app/backend/vendor/
+/app/frontend/node_modules/
+/app/frontend/dist/
+/app/frontend/.env
+/app/frontend/.env.*
+!/app/frontend/.env.example
